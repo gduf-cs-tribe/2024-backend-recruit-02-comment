@@ -28,7 +28,7 @@
 
 3. **other**:
 
-   - 由于这里使用的是一次readLine()，导致使用help命令无法读取全部指令，使其堆积在流里![image-20250427203545261](assets\image-20250427203545261.png)
+   - 由于这里使用的是一次readLine()，导致使用help命令无法读取全部指令，使其堆积在流里![image-20250427203545261](assets/image-20250427203545261.png)
 
      ```java
      out.println(command);
