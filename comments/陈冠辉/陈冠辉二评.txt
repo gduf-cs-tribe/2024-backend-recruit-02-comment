@@ -1,0 +1,1 @@
+师弟你好，你Customer类中的addMoney、checkout写在了类的外面了，缺少了saveRooms方法，KeyValue最好放在别的地方不要放在一个项目中
